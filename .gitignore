@@ -1,0 +1,6 @@
+env/
+temp_files/
+persist/
+__pycache__/
+*.sqlite
+.env
